@@ -207,7 +207,7 @@ policy directive), and likely a few others.
 ## Security considerations
 
 As always, introducing support for parsing and processing new formats raises the surface area
-of attach posibilities in a browser.
+of attack posibilities in a browser.
 
 However, some existing browsers already process such formats in a non-inline manner
 (such as iOS's AR Quick Look and Android's Scene Viewer).
